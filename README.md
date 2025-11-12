@@ -1,53 +1,53 @@
-## 🚀 Tecboard
-Landing Page Responsiva
+# 💻 Tecboard  
+### 🚀 Landing Page Responsiva  
 
-### Projeto desenvolvido durante o curso da Alura, com o principal objetivo de **aprender a usar o Git e o GitHub de forma profissional** para versionar, organizar e publicar projetos.  
-Durante o curso, também **pratiquei o uso de HTML e CSS**, aplicando conceitos já conhecidos na construção de páginas estruturadas e responsivas.
+### Projeto desenvolvido durante o curso da **Alura**, onde pratiquei meus conhecimentos em **HTML e CSS**, dei meus **primeiros passos com Git e GitHub**, e aprendi a aplicar **técnicas de SEO** para aprimorar o desempenho e a visibilidade de páginas na web.
+---
+
+### 🧩 Prática com HTML e CSS
+Apliquei conceitos já conhecidos de **HTML5** e **CSS3** na criação de uma **página estruturada e responsiva**, explorando boas práticas de semântica, hierarquia e layout.
 
 ---
 
-## 🧠 Principais aprendizados
-
-### 💾 Controle de versões com Git
-Aprendi a utilizar o **Git** para gerenciar versões e acompanhar mudanças no código, adotando boas práticas de desenvolvimento colaborativo:  
-- Criação e configuração de repositórios locais  
-- Uso de comandos essenciais (`git init`, `add`, `commit`, `push`, `pull`, `clone`, entre outros)  
-- Criação e gerenciamento de **branch**  
-- Uso de **pull requests** para revisão e integração de código  
-- Atualização da branch principal (`main`) e fluxo de merges  
-- Boas práticas de versionamento e colaboração  
-
-### ☁️ GitHub e publicação
-Entendi o papel do **GitHub** como plataforma para **armazenar, compartilhar e publicar** projetos:  
-- Criação e sincronização de repositórios remotos  
-- Publicação de sites estáticos com **GitHub Pages**  
-- Integração do **VS Code** com o Git  
-- Processos de **fork**, **clone** e **merge**
+### 🚀 Primeiros passos com Git e GitHub
+Foi o meu **primeiro contato prático com controle de versões**, entendendo os fundamentos de *commits*, *branches* e *push/pull* para manter o projeto organizado e versionado.
 
 ---
 
-## 🎨 Prática com HTML e CSS
+### 🌐 Aplicando técnicas de SEO
+💡 ***Este foi o primeiro projeto em que comecei a entender o uso do Git e GitHub e apliquei técnicas de SEO para melhorar o desempenho e a visibilidade da página.***
 
-Durante o desenvolvimento do projeto, **aperfeiçoei o uso de HTML5 e CSS3**:  
-- Estruturação semântica de páginas  
-- Estilização, responsividade e organização do código  
-- Uso do **Visual Studio Code** e integração com o **Figma**  
+Explorei boas práticas como:
+- Entendimento do conceito de SEO e suas divisões: **SEO técnico** e **SEO de conteúdo**.  
+- Estudo dos **quatro pilares do SEO técnico**: semântica, performance, mobile first e acessibilidade.  
+- Uso de ferramentas como **Google Lighthouse** e **Google Search Console** para análise e acompanhamento.  
+- Implementação de **boas práticas de HTML** para otimizar SEO e melhorar a experiência do usuário.  
+- Configuração de **metatags Open Graph (OG)** para otimização em redes sociais.  
+- Uso de **URLs absolutas** nas metatags OG e testes com ferramentas específicas.  
+- Ajuste de **texto alternativo (alt)** e títulos de links para SEO e acessibilidade.  
+- Gerenciamento de mudanças e melhorias de SEO utilizando **branches no Git**.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas utilizadas
+## 🧰 Tecnologias e Ferramentas Utilizadas
 
-**Git**, **GitHub**, **HTML5**, **CSS3**, **Visual Studio Code**, **Figma**
+`Git` · `GitHub` · `HTML5` · `CSS3` · `Visual Studio Code` · `Figma`
 
 ---
+
+## 🌟 Resultado Final
 
 🔗 **Acesse o projeto publicado:**  
-[https://vitoriamcolombo.github.io/landingpage_tecboard/](https://vitoriamcolombo.github.io/landingpage_tecboard/)
+👉 [vitoriamcolombo.github.io/landingpage_tecboard](https://vitoriamcolombo.github.io/landingpage_tecboard/)
 
-### 🎨 Design no Figma
-
-**Versão Web / Tablet / Mobile:** [Ver design no Figma](https://www.figma.com/design/ZmTSIZU9nIsr0YGdYuZVg9/Tecboard-%7C-Landing-page--Community-?node-id=0-1&m=dev&t=nF9Sd4IkoktU09XQ-1)  
+🎨 **Design no Figma:**  
+[Ver no Figma](https://www.figma.com/design/ZmTSIZU9nIsr0YGdYuZVg9/Tecboard-%7C-Landing-page--Community-?node-id=0-1&m=dev&t=nF9Sd4IkoktU09XQ-1)
 
 ---
 
-Feito com ❤️ por [Vi](https://github.com/VitoriamColombo)
+<div align="center">
+
+Feito com ❤️ por **Vi Colombo**  
+🚀 *Primeiros passos com Git, grandes aprendizados no caminho.*
+
+</div>
