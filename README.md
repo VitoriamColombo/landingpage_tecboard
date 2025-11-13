@@ -49,7 +49,9 @@ Explorei boas práticas como:
 
 <div align="center">
 
-Feito com ❤️ por **Vi Colombo**  
+Feito com ❤️ por [Vi](https://github.com/VitoriamColombo)
+
+
 🚀 *Primeiros passos com Git, grandes aprendizados no caminho.*
 
 </div>
