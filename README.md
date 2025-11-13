@@ -1,7 +1,7 @@
 # 💻 Tecboard  
 ### 🚀 Landing Page Responsiva  
 
-### Projeto desenvolvido durante o curso da **Alura**, onde pratiquei meus conhecimentos em **HTML e CSS**, dei meus **primeiros passos com Git e GitHub**, e aprendi a aplicar **técnicas de SEO** para aprimorar o desempenho e a visibilidade de páginas na web.
+### Este projeto foi desenvolvido para praticar HTML e CSS, aprimorar meu uso de Git e GitHub e começar a aplicar conceitos essenciais de SEO voltados para performance e acessibilidade.
 ---
 
 ### 🧩 Prática com HTML e CSS
@@ -42,6 +42,8 @@ Explorei boas práticas como:
 
 🎨 **Design no Figma:**  
 [Ver no Figma](https://www.figma.com/design/ZmTSIZU9nIsr0YGdYuZVg9/Tecboard-%7C-Landing-page--Community-?node-id=0-1&m=dev&t=nF9Sd4IkoktU09XQ-1)
+
+📚 **Observação:** projeto desenvolvido durante minha evolução no Front-End, com ajustes contínuos de boas práticas.
 
 ---
 
