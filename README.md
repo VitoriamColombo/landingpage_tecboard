@@ -1,7 +1,7 @@
 # 💻 Tecboard  
 ### 🚀 Landing Page Responsiva  
 
-### Este projeto foi desenvolvido para praticar HTML e CSS, aprimorar meu uso de Git e GitHub e começar a aplicar conceitos essenciais de SEO voltados para performance e acessibilidade.
+### Desenvolvido para aplicar conceitos essenciais de marcação semântica e design responsivo, aprimorar meu uso de Git e GitHub e começar a aplicar conceitos essenciais de SEO voltados para performance e acessibilidade.
 ---
 
 ### 🧩 Prática com HTML e CSS
