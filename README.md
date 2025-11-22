@@ -35,23 +35,45 @@ Explorei boas práticas como:
 
 ---
 
-## 🌟 Resultado Final
-
-🔗 **Acesse o projeto publicado:**  
+## 🔗 **Acesse o projeto publicado:**  
 👉 [vitoriamcolombo.github.io/landingpage_tecboard](https://vitoriamcolombo.github.io/landingpage_tecboard/)
-
-🎨 **Design no Figma:**  
-[Ver no Figma](https://www.figma.com/design/ZmTSIZU9nIsr0YGdYuZVg9/Tecboard-%7C-Landing-page--Community-?node-id=0-1&m=dev&t=nF9Sd4IkoktU09XQ-1)
-
-📚 **Observação:** projeto desenvolvido durante minha evolução no Front-End, com ajustes contínuos de boas práticas.
 
 ---
 
+### 📸 Prévia do projeto
+
+#### 💻 Versão Web
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e155328-9543-452d-9790-d5f38559c8a6" width="700" alt="Versão Web" />
+</p>
+
+---
+
+#### 📱 Versão Tablet
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f9efc100-38da-4ce6-8245-7ab1b24d7107" width="400" alt="Versão Tablet" />
+</p>
+
+---
+
+#### 📱 Versão Mobile
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79322386-4568-4c3a-91d3-50a280a2a999" width="250" alt="Versão Mobile" />
+</p>
+
 <div align="center">
 
-Feito com 💖 por [Vi](https://github.com/VitoriamColombo)
+📚 *Projeto desenvolvido durante minha evolução no Front-End, com ajustes contínuos de boas práticas.*
+
+---
 
 
 🚀 *Primeiros passos com Git, grandes aprendizados no caminho.*
+
+Feito com 💖 por [Vi](https://github.com/VitoriamColombo)
+
 
 </div>
