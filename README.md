@@ -1,4 +1,4 @@
-# 💻 Tecboard  
+## 💻 Tecboard  
 ### 🚀 Landing Page Responsiva  
 
 ### Desenvolvido para aplicar conceitos essenciais de marcação semântica e design responsivo, aprimorar meu uso de Git e GitHub e começar a aplicar conceitos essenciais de SEO voltados para performance e acessibilidade.
@@ -40,9 +40,9 @@ Explorei boas práticas como:
 
 ---
 
-### 📸 Prévia do projeto
+### 📸 Prévia do projeto:
 
-#### 💻 Versão Web
+💻 Versão Web:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e155328-9543-452d-9790-d5f38559c8a6" width="700" alt="Versão Web" />
@@ -50,7 +50,7 @@ Explorei boas práticas como:
 
 ---
 
-#### 📱 Versão Tablet
+📱 Versão Tablet:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f9efc100-38da-4ce6-8245-7ab1b24d7107" width="400" alt="Versão Tablet" />
@@ -58,7 +58,7 @@ Explorei boas práticas como:
 
 ---
 
-#### 📱 Versão Mobile
+📱 Versão Mobile:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79322386-4568-4c3a-91d3-50a280a2a999" width="250" alt="Versão Mobile" />
