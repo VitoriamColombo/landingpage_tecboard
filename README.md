@@ -46,7 +46,7 @@ Explorei boas práticas como:
 💻 Versão Web:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9e155328-9543-452d-9790-d5f38559c8a6" width="700" alt="Versão Web" />
+  <img src="https://github.com/user-attachments/assets/1e1633e2-f962-4e19-ad5e-d4842d98fc38" width="700" alt="Versão Web" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Explorei boas práticas como:
 📱 Versão Tablet:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9efc100-38da-4ce6-8245-7ab1b24d7107" width="400" alt="Versão Tablet" />
+  <img src="https://github.com/user-attachments/assets/c11daef0-48d4-416a-bc83-4bc2a88d81e0" width="400" alt="Versão Tablet" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ Explorei boas práticas como:
 📱 Versão Mobile:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/79322386-4568-4c3a-91d3-50a280a2a999" width="250" alt="Versão Mobile" />
+  <img src="https://github.com/user-attachments/assets/15d5050e-1422-4141-af29-75f17dafbf69" width="250" alt="Versão Mobile" />
 </p>
 
 <div align="center">
