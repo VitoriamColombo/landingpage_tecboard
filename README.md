@@ -36,7 +36,8 @@ Explorei boas práticas como:
 ---
 
 ## 🔗 **Acesse o projeto publicado:**  
-👉 [vitoriamcolombo.github.io/landingpage_tecboard](https://vitoriamcolombo.github.io/landingpage_tecboard/)
+👉🏻<a href="https://vitoriamcolombo.github.io/landingpage_tecboard/" target="_blank" rel="noopener noreferrer">Ver site online</a>
+
 
 ---
 
